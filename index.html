@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tradutor Global</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="big-box">
+        <textarea class="text-input"></textarea>
+        <div class="control">
+
+            <div class="custom-select">
+                <div class="selected-option">Inglês</div>
+                <ul class="options-list">
+                    <li data-value="en">Inglês</li>
+                    <li data-value="de">Alemão</li>
+                    <li data-value="ja">Japonês</li>
+                    <li data-value="fr">Francês</li>
+                    <li data-value="it">Italiano</li>
+                    <li data-value="es">Espanhol</li>
+                </ul>
+            </div>
+
+            <button onclick="textTranslate()">
+                <img class="btn-translate" src="img/traduzir.svg">
+            </button>
+
+            <button onclick="speechVoice()">
+                <img class="btn-microphone" src="img/microfone.svg">
+            </button>
+        </div>
+
+        <div class="result">
+            <h3 class="translate-title">Tradução</h3>
+            <p class="translate-text">Tradução aparecerá aqui</p>
+        </div>
+    </div>
+</body>
+
+<script src="scripts.js">
+
+</script>
+
+</html>
