@@ -80,5 +80,5 @@ API gratuita de tradução que suporta mais de 60 pares de idiomas.
 ## 👨‍💻 Autor
 
 Desenvolvido por **Diego G Da Silva**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-gabryel-da-silva-0191a3ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-gabryel-da-silva-01919a3ab)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/deego0016-tz)
